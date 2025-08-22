@@ -1,16 +1,16 @@
 <!--
-**yaolin6666/yaolin6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kushio4967/Kushio4967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
 <a href="#">
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" /> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kushio4967&show_icons=true&locale=cn" /> -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kushio4967" />
 </a>  
 
 <img src='https://avatars.githubusercontent.com/u/37007707?s=400&u=1c91c2df43ba5534effcb44bfc5f153f9e7ccf72&v=4' alt='figure' width='200' height='200'/> 
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaolin6666&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushio4967&layout=compact" />
 </a>  
 
 我是玖汐Kushio,可以称呼我玖汐或者Kushio。<br/>
@@ -22,7 +22,7 @@
 [![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://twitter.com/yaolin6666)
 [![](https://img.shields.io/twitter/url?label=Steam&logo=steam&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://steamcommunity.com/id/yaolin6666)
 
-![:name](https://count.getloli.com/get/@:yaolin6666?theme=rule34) 
+![:name](https://count.getloli.com/get/@:Kushio4967?theme=rule34) 
 
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
@@ -49,4 +49,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yaolin6666/yaolin6666&type=Date)](https://star-history.com/#yaolin6666/yaolin6666&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Kushio4967/Kushio4967&type=Date)](https://star-history.com/#Kushio4967/Kushio4967&Date)

@@ -19,7 +19,7 @@
 
 [![](https://img.shields.io/twitter/url?label=Bilibili&logo=bilibili&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://space.bilibili.com/13574078)
 [![](https://img.shields.io/twitter/url?label=Pixiv&logo=pixiv&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://www.pixiv.net/users/32855909)
-[![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://twitter.com/yaolin6666)
+[![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FKushio4967)](https://twitter.com/Kushio4967)
 [![](https://img.shields.io/twitter/url?label=Steam&logo=steam&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://steamcommunity.com/id/yaolin6666)
 
 ![:name](https://count.getloli.com/get/@:Kushio4967?theme=rule34) 
